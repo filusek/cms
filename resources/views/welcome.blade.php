@@ -79,7 +79,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">1.  Documentation</a>
+                    <a href="https://laravel.com/docs">1.      Documentation</a>
                     <a href="https://laracasts.com">2. Laracasts</a>
                     <a href="https://laravel-news.com">3. News</a>
                     <a href="https://forge.laravel.com">4. Forge</a>
